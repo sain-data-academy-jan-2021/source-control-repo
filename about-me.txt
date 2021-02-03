@@ -2,6 +2,8 @@ Add your name and a fun fact about yourself between the lines:
 
 ------------------------------------------------
 
+Marcus - I'm old enough to remember 5 1/4 floppy discs
+
 Lesley-Ashley & fun fact = I hate cake
 
 Juliet - I ride horses!
@@ -19,4 +21,5 @@ Callum
 ¯\_(ツ)_/¯
 Ruari Armstrong
 Instructor in the Data Academy
+
 ------------------------------------------------
