@@ -2,11 +2,14 @@ Add your name and a fun fact about yourself between the lines:
 
 ------------------------------------------------
 
+Lesley-Ashley & fun fact = I hate cake
+
 Juliet - I ride horses!
 
 Gary: I Have No Fun Facts :(
 
 Harry: My cat is currently attacking my foot
+
 Tom - I can juggle beach balls. 
 
 
@@ -16,5 +19,4 @@ Callum
 ¯\_(ツ)_/¯
 Ruari Armstrong
 Instructor in the Data Academy
-
 ------------------------------------------------
