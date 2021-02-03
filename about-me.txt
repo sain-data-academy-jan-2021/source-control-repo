@@ -1,7 +1,7 @@
 Add your name and a fun fact about yourself between the lines:
 
 ------------------------------------------------
-
+Harry: My cat is currently attacking my foot
 Tom - I can juggle beach balls. 
 
 
@@ -11,7 +11,5 @@ Callum
 ¯\_(ツ)_/¯
 Ruari Armstrong
 Instructor in the Data Academy
-
-
 
 ------------------------------------------------
