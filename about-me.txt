@@ -1,6 +1,9 @@
 Add your name and a fun fact about yourself between the lines:
 
 ------------------------------------------------
+
+Raul Cojocaru - not great not terrible 
+
 Ryan Essam:
 There was a bird standing right above my head
 
@@ -32,6 +35,7 @@ Callum
 ¯\_(ツ)_/¯
 Ruari Armstrong
 Instructor in the Data Academy
+
 
 
 ------------------------------------------------
